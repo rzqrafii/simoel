@@ -1,0 +1,8 @@
+dbsimoel
+dbsimoel123
+000webhostapp.com
+
+name :id6127522_dbsimoel
+user :id6127522_dbsimoel
+host : localhost
+passw:dbsimoel123
